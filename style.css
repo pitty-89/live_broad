@@ -1,3 +1,4 @@
 .carousel-control { border: none; background: transparent; top: 50%; }
+.carousel-control > div { top: 50%; }
 .gallery-slide-right { right: 10px; }
 .gallery-slide-left { left: 10px; }
