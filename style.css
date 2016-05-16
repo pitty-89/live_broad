@@ -4,6 +4,6 @@
 .carousel > .carousel-inner > .item img { height: 100%; } 
 .carousel > .carousel-inner > .item img { width: 100%; }
 .carousel-control { border: none; background: transparent; }
-.carousel-control > div { top: 50%; }
+.carousel-control > div { top: 45%; }
 .gallery-slide-right { right: 10px; }
 .gallery-slide-left { left: 10px; }
